@@ -10,9 +10,9 @@
 - ⚡ Fun fact: I'm passionate about martial arts! 🥋
 
 ### Connect with me 🔗
-<button>
+<a href='https://www.linkedin.com/in/karin-ohana//'><button >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</button>
+</button></a>
 
 ### Languages and Tools 🚀
 
