@@ -1,7 +1,7 @@
 ### Hi there! 👋
  I'm Karin (Kah-Rin) Ohana 😄 (She/Her)
 
- I'm a Front-End Web Developer | Creatively Driven Software Engineer | Working With User Interface Design Teams
+ I'm a Full-Stack Web Developer | Creatively Driven Software Engineer | Working With User Interface Design Teams
 
 
 - 🔭 I’m currently working on new projects and growing my portfolio 📗
